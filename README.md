@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mehphew
+- 👋 Hi, I’m Mehphew
 - 👀 I’m interested in learning how to code and program
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me: mattksma@gmail.com
